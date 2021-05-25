@@ -4,44 +4,44 @@ ADDED from /home/akter/Downloads/Android-WebView-in-Kotlin-master/app/src/main/A
 INJECTED from /home/akter/Downloads/Android-WebView-in-Kotlin-master/app/src/main/AndroidManifest.xml:2:1-25:12
 INJECTED from /home/akter/Downloads/Android-WebView-in-Kotlin-master/app/src/main/AndroidManifest.xml:2:1-25:12
 INJECTED from /home/akter/Downloads/Android-WebView-in-Kotlin-master/app/src/main/AndroidManifest.xml:2:1-25:12
-MERGED from [com.google.android.material:material:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/4bb8edf9f4cea04f1da6554bd6c76776/material-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/1c72d06236817ce5a1d1a732204158bf/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/fdf0afd8ca5a9bfc98616998d23b4ba5/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/akter/.gradle/caches/transforms-2/files-2.1/de42bf80c78f3f3c8a22b4629a78bc62/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.appcompat:appcompat:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/deeaa13cc110c3252da2e343eb74d0cd/appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.fragment:fragment:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/601e498fd9b24625cd3d82731a0d807d/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/22a45d2f68dc6d2c35c20dc35f78eb68/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/4f985cd1f9e5667ca1ff39c2a0cc6de2/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/2108a777b6e561215617a751e21c9338/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.transition:transition:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/98f82de2cf6662b24713719c7e4cda70/transition-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.media:media:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/af93e8c077c4320432dbb554df067b43/media-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/5c3c12b56530ac109bfa9bfdf92150a7/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/8e1dad7bff7942e8e529bde496136b9c/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/fe822bf386dd8fed0707ba6809c35144/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/3f46cba087427d8fc0dba2e7ab5a9971/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/cbc2791371180611c5161a99e5fb6e6f/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/0b2e49c973fe383dea717effdeabdde8/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/0e5f8e05a807e5310fb98930588e60d7/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/7ef160e85f846ce396ed68e8fdadd606/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/8b732f6a2e941222c63bbbfa4f1082ed/vectordrawable-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/51bd038869f1ae39159a0a8fbe7b2ffe/core-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.cardview:cardview:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/36ff5b94b7b516aa76d2e190af426743/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/840d27077d1557718d4e5c4453b2d221/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/1e94e95deac1912849a60c4e9fbe2257/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/fc1da2669d7a0ca7ccf4d3c232b87945/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/30983bb27642ad3880d3651fb64e94ec/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/ce6351e6b90f4f4c1af2c8b249030d6a/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/666200f257bd18e5563b60094fc38499/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/05af9d25bbb6ab3bcd27b75f0fa22591/print-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/4ef2090d263f2b74febb91ad75622671/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/59ae5ca1c7593668fd5be072eeeea42a/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/9f3478fa805208ef796f1e3531e694c2/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/a1a5b525df4c1daa0572e30e4ac98eed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/9e22da0a02c3bd11adbb29da49e4c478/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/0dc48cf8eea6815ed5f1b468538013f0/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/81d394841b6f1af443f0e43a21de0a6c/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/akter/.gradle/caches/transforms-2/files-2.1/f3655dccd6035f2c6af89fab4e4838ac/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/1a0eab5a16cc4732f8ad8333825716bc/appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/73d33af3cf3b2f86071db62ea2f82468/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/669c523da4fda579c843424247887e56/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/c46aaa262a5fb94efe7c487c2a1247be/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/e5e30813053d89fd0d4183885b16c111/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/6f00c46ae8ffa5e0009f52da1b92b929/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/50167773cb6dc84c1222d08458b46f07/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/ad3dc0dd229296e1e8cfe4ad0709eeaf/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/1434630aa2bc78a5a982ea672ad93803/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/20c75e2f0ed066dbea71a0891368a90a/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/1765df61eaf05cf870b91705ea65c74a/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/015ff5bcaf00552eaa15865860097aeb/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/8f060bf6d07e24f15772f81095230d84/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/68eb36131b0d54c2824fe71bb754fc2e/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/fe52f9605a25133fcbb815f234cb5b9a/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/337f20616b938bc8dda7ff97afcc93a4/vectordrawable-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/fdc5a616cb0d1d877eb3dccf218d0629/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/5c25b46d5a1a2316b063a8faae5921e0/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/6f4886008d94aed34d35f5c143fabf46/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/6aa8bbecd122bc8f69a3415a1d682b78/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/3c4a7dac34c91183849c0fc88d42bf25/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/604db8c8fb4169c6700b7ce5fa6570c2/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/841b055e9a15b8d32c71792323793884/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/fad58168591aa827a3b6648f589089bf/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/d6fca705dd92b400ea13a0a6987affdb/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/16be5a45ec37c31754e30ea477d294cc/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/c3c218d8a29c2d0b1375a2894f062a0e/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/203027654a17e090a47a1ae1287c6973/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/62b77748ab588b26cb217f45ae3d3079/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
 INJECTED from /home/akter/Downloads/Android-WebView-in-Kotlin-master/app/src/main/AndroidManifest.xml:2:1-25:12
 INJECTED from /home/akter/Downloads/Android-WebView-in-Kotlin-master/app/src/main/AndroidManifest.xml:2:1-25:12
 INJECTED from /home/akter/Downloads/Android-WebView-in-Kotlin-master/app/src/main/AndroidManifest.xml:2:1-25:12
 	package
-		ADDED from /home/akter/Downloads/Android-WebView-in-Kotlin-master/app/src/main/AndroidManifest.xml:3:5-46
+		ADDED from /home/akter/Downloads/Android-WebView-in-Kotlin-master/app/src/main/AndroidManifest.xml:3:5-43
 		INJECTED from /home/akter/Downloads/Android-WebView-in-Kotlin-master/app/src/main/AndroidManifest.xml
 		INJECTED from /home/akter/Downloads/Android-WebView-in-Kotlin-master/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -72,16 +72,16 @@ ADDED from /home/akter/Downloads/Android-WebView-in-Kotlin-master/app/src/main/A
 		ADDED from /home/akter/Downloads/Android-WebView-in-Kotlin-master/app/src/main/AndroidManifest.xml:7:22-77
 application
 ADDED from /home/akter/Downloads/Android-WebView-in-Kotlin-master/app/src/main/AndroidManifest.xml:9:5-23:19
-MERGED from [com.google.android.material:material:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/4bb8edf9f4cea04f1da6554bd6c76776/material-1.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/4bb8edf9f4cea04f1da6554bd6c76776/material-1.0.0/AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/akter/.gradle/caches/transforms-2/files-2.1/de42bf80c78f3f3c8a22b4629a78bc62/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/akter/.gradle/caches/transforms-2/files-2.1/de42bf80c78f3f3c8a22b4629a78bc62/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
-MERGED from [androidx.core:core:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/51bd038869f1ae39159a0a8fbe7b2ffe/core-1.0.0/AndroidManifest.xml:22:5-89
-MERGED from [androidx.core:core:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/51bd038869f1ae39159a0a8fbe7b2ffe/core-1.0.0/AndroidManifest.xml:22:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/840d27077d1557718d4e5c4453b2d221/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/840d27077d1557718d4e5c4453b2d221/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.material:material:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/9e22da0a02c3bd11adbb29da49e4c478/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/9e22da0a02c3bd11adbb29da49e4c478/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/akter/.gradle/caches/transforms-2/files-2.1/f3655dccd6035f2c6af89fab4e4838ac/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/akter/.gradle/caches/transforms-2/files-2.1/f3655dccd6035f2c6af89fab4e4838ac/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/fdc5a616cb0d1d877eb3dccf218d0629/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/fdc5a616cb0d1d877eb3dccf218d0629/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/6f4886008d94aed34d35f5c143fabf46/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/6f4886008d94aed34d35f5c143fabf46/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/51bd038869f1ae39159a0a8fbe7b2ffe/core-1.0.0/AndroidManifest.xml:22:18-86
+		ADDED from [androidx.core:core:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/fdc5a616cb0d1d877eb3dccf218d0629/core-1.0.0/AndroidManifest.xml:22:18-86
 	android:supportsRtl
 		ADDED from /home/akter/Downloads/Android-WebView-in-Kotlin-master/app/src/main/AndroidManifest.xml:14:9-35
 	android:label
@@ -94,10 +94,10 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/akter
 		ADDED from /home/akter/Downloads/Android-WebView-in-Kotlin-master/app/src/main/AndroidManifest.xml:10:9-35
 	android:theme
 		ADDED from /home/akter/Downloads/Android-WebView-in-Kotlin-master/app/src/main/AndroidManifest.xml:15:9-40
-activity#imrankst1221.website.in.webview.MainActivity
+activity#ontime.world.website.webview.MainActivity
 ADDED from /home/akter/Downloads/Android-WebView-in-Kotlin-master/app/src/main/AndroidManifest.xml:16:9-22:20
 	android:name
-		ADDED from /home/akter/Downloads/Android-WebView-in-Kotlin-master/app/src/main/AndroidManifest.xml:16:19-47
+		ADDED from /home/akter/Downloads/Android-WebView-in-Kotlin-master/app/src/main/AndroidManifest.xml:16:19-75
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from /home/akter/Downloads/Android-WebView-in-Kotlin-master/app/src/main/AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
@@ -112,72 +112,72 @@ uses-sdk
 INJECTED from /home/akter/Downloads/Android-WebView-in-Kotlin-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/akter/Downloads/Android-WebView-in-Kotlin-master/app/src/main/AndroidManifest.xml
 INJECTED from /home/akter/Downloads/Android-WebView-in-Kotlin-master/app/src/main/AndroidManifest.xml
-MERGED from [com.google.android.material:material:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/4bb8edf9f4cea04f1da6554bd6c76776/material-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/4bb8edf9f4cea04f1da6554bd6c76776/material-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/1c72d06236817ce5a1d1a732204158bf/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/1c72d06236817ce5a1d1a732204158bf/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/fdf0afd8ca5a9bfc98616998d23b4ba5/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/fdf0afd8ca5a9bfc98616998d23b4ba5/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/akter/.gradle/caches/transforms-2/files-2.1/de42bf80c78f3f3c8a22b4629a78bc62/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/akter/.gradle/caches/transforms-2/files-2.1/de42bf80c78f3f3c8a22b4629a78bc62/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.appcompat:appcompat:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/deeaa13cc110c3252da2e343eb74d0cd/appcompat-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/deeaa13cc110c3252da2e343eb74d0cd/appcompat-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/601e498fd9b24625cd3d82731a0d807d/fragment-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/601e498fd9b24625cd3d82731a0d807d/fragment-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/22a45d2f68dc6d2c35c20dc35f78eb68/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/22a45d2f68dc6d2c35c20dc35f78eb68/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/4f985cd1f9e5667ca1ff39c2a0cc6de2/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/4f985cd1f9e5667ca1ff39c2a0cc6de2/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/2108a777b6e561215617a751e21c9338/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/2108a777b6e561215617a751e21c9338/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/98f82de2cf6662b24713719c7e4cda70/transition-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/98f82de2cf6662b24713719c7e4cda70/transition-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/af93e8c077c4320432dbb554df067b43/media-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/af93e8c077c4320432dbb554df067b43/media-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/5c3c12b56530ac109bfa9bfdf92150a7/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/5c3c12b56530ac109bfa9bfdf92150a7/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/8e1dad7bff7942e8e529bde496136b9c/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/8e1dad7bff7942e8e529bde496136b9c/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/fe822bf386dd8fed0707ba6809c35144/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/fe822bf386dd8fed0707ba6809c35144/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/3f46cba087427d8fc0dba2e7ab5a9971/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/3f46cba087427d8fc0dba2e7ab5a9971/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/cbc2791371180611c5161a99e5fb6e6f/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/cbc2791371180611c5161a99e5fb6e6f/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/0b2e49c973fe383dea717effdeabdde8/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/0b2e49c973fe383dea717effdeabdde8/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/0e5f8e05a807e5310fb98930588e60d7/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/0e5f8e05a807e5310fb98930588e60d7/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/7ef160e85f846ce396ed68e8fdadd606/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/7ef160e85f846ce396ed68e8fdadd606/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/8b732f6a2e941222c63bbbfa4f1082ed/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/8b732f6a2e941222c63bbbfa4f1082ed/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/51bd038869f1ae39159a0a8fbe7b2ffe/core-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/51bd038869f1ae39159a0a8fbe7b2ffe/core-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/36ff5b94b7b516aa76d2e190af426743/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/36ff5b94b7b516aa76d2e190af426743/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/840d27077d1557718d4e5c4453b2d221/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/840d27077d1557718d4e5c4453b2d221/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/1e94e95deac1912849a60c4e9fbe2257/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/1e94e95deac1912849a60c4e9fbe2257/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/fc1da2669d7a0ca7ccf4d3c232b87945/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/fc1da2669d7a0ca7ccf4d3c232b87945/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/30983bb27642ad3880d3651fb64e94ec/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/30983bb27642ad3880d3651fb64e94ec/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/ce6351e6b90f4f4c1af2c8b249030d6a/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/ce6351e6b90f4f4c1af2c8b249030d6a/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/666200f257bd18e5563b60094fc38499/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/666200f257bd18e5563b60094fc38499/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/05af9d25bbb6ab3bcd27b75f0fa22591/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/05af9d25bbb6ab3bcd27b75f0fa22591/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/4ef2090d263f2b74febb91ad75622671/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/4ef2090d263f2b74febb91ad75622671/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/59ae5ca1c7593668fd5be072eeeea42a/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/59ae5ca1c7593668fd5be072eeeea42a/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/9f3478fa805208ef796f1e3531e694c2/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/9f3478fa805208ef796f1e3531e694c2/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/a1a5b525df4c1daa0572e30e4ac98eed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/a1a5b525df4c1daa0572e30e4ac98eed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/9e22da0a02c3bd11adbb29da49e4c478/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/9e22da0a02c3bd11adbb29da49e4c478/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/0dc48cf8eea6815ed5f1b468538013f0/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/0dc48cf8eea6815ed5f1b468538013f0/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/81d394841b6f1af443f0e43a21de0a6c/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/81d394841b6f1af443f0e43a21de0a6c/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/akter/.gradle/caches/transforms-2/files-2.1/f3655dccd6035f2c6af89fab4e4838ac/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/akter/.gradle/caches/transforms-2/files-2.1/f3655dccd6035f2c6af89fab4e4838ac/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/1a0eab5a16cc4732f8ad8333825716bc/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/1a0eab5a16cc4732f8ad8333825716bc/appcompat-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/73d33af3cf3b2f86071db62ea2f82468/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/73d33af3cf3b2f86071db62ea2f82468/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/669c523da4fda579c843424247887e56/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/669c523da4fda579c843424247887e56/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/c46aaa262a5fb94efe7c487c2a1247be/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/c46aaa262a5fb94efe7c487c2a1247be/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/e5e30813053d89fd0d4183885b16c111/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/e5e30813053d89fd0d4183885b16c111/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/6f00c46ae8ffa5e0009f52da1b92b929/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/6f00c46ae8ffa5e0009f52da1b92b929/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/50167773cb6dc84c1222d08458b46f07/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/50167773cb6dc84c1222d08458b46f07/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/ad3dc0dd229296e1e8cfe4ad0709eeaf/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/ad3dc0dd229296e1e8cfe4ad0709eeaf/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/1434630aa2bc78a5a982ea672ad93803/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/1434630aa2bc78a5a982ea672ad93803/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/20c75e2f0ed066dbea71a0891368a90a/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/20c75e2f0ed066dbea71a0891368a90a/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/1765df61eaf05cf870b91705ea65c74a/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/1765df61eaf05cf870b91705ea65c74a/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/015ff5bcaf00552eaa15865860097aeb/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/015ff5bcaf00552eaa15865860097aeb/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/8f060bf6d07e24f15772f81095230d84/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/8f060bf6d07e24f15772f81095230d84/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/68eb36131b0d54c2824fe71bb754fc2e/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/68eb36131b0d54c2824fe71bb754fc2e/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/fe52f9605a25133fcbb815f234cb5b9a/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/fe52f9605a25133fcbb815f234cb5b9a/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/337f20616b938bc8dda7ff97afcc93a4/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/337f20616b938bc8dda7ff97afcc93a4/vectordrawable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/fdc5a616cb0d1d877eb3dccf218d0629/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/fdc5a616cb0d1d877eb3dccf218d0629/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/5c25b46d5a1a2316b063a8faae5921e0/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/5c25b46d5a1a2316b063a8faae5921e0/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/6f4886008d94aed34d35f5c143fabf46/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/6f4886008d94aed34d35f5c143fabf46/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/6aa8bbecd122bc8f69a3415a1d682b78/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/6aa8bbecd122bc8f69a3415a1d682b78/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/3c4a7dac34c91183849c0fc88d42bf25/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/3c4a7dac34c91183849c0fc88d42bf25/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/604db8c8fb4169c6700b7ce5fa6570c2/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/604db8c8fb4169c6700b7ce5fa6570c2/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/841b055e9a15b8d32c71792323793884/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/841b055e9a15b8d32c71792323793884/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/fad58168591aa827a3b6648f589089bf/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/fad58168591aa827a3b6648f589089bf/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/d6fca705dd92b400ea13a0a6987affdb/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/d6fca705dd92b400ea13a0a6987affdb/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/16be5a45ec37c31754e30ea477d294cc/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/16be5a45ec37c31754e30ea477d294cc/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/c3c218d8a29c2d0b1375a2894f062a0e/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/c3c218d8a29c2d0b1375a2894f062a0e/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/203027654a17e090a47a1ae1287c6973/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/203027654a17e090a47a1ae1287c6973/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/62b77748ab588b26cb217f45ae3d3079/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/akter/.gradle/caches/transforms-2/files-2.1/62b77748ab588b26cb217f45ae3d3079/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
 INJECTED from /home/akter/Downloads/Android-WebView-in-Kotlin-master/app/src/main/AndroidManifest.xml
 INJECTED from /home/akter/Downloads/Android-WebView-in-Kotlin-master/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion

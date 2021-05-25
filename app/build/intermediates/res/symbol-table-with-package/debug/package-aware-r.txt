@@ -1011,13 +1011,13 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
-drawable ic_logo
 drawable ic_love
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_no_internet
 drawable ic_warning
+drawable img_logo
 drawable mtrl_snackbar_background
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
@@ -1131,7 +1131,6 @@ id italic
 id item_touch_helper_previous_elevation
 id labeled
 id largeLabel
-id layout_footer
 id layout_no_internet
 id layout_splash
 id layout_webview
@@ -1246,7 +1245,6 @@ id unlabeled
 id up
 id useLogo
 id view_offset_helper
-id view_splash
 id visible
 id webview
 id withText
