@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">OnTime</string>
+    <string name="cannot_use_save_permission">you shouldn\'t use saved permission</string>
 </resources>

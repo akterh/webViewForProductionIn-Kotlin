@@ -1,9 +1,13 @@
 package ontime.world.website.webview
 
+import android.Manifest
 import android.annotation.SuppressLint
 import android.app.Activity
+import android.app.AlertDialog
 import android.content.Context
+import android.content.DialogInterface
 import android.content.Intent
+import android.content.pm.PackageManager
 import android.graphics.Bitmap
 import android.net.ConnectivityManager
 import android.net.NetworkInfo
@@ -55,6 +59,15 @@ class MainActivity : Activity() {
     private lateinit var layoutSplash: RelativeLayout
     private lateinit var layoutWebview: RelativeLayout
     private lateinit var layoutNoInternet: RelativeLayout
+
+    var permissions = ArrayList<String>()
+    var permissionsToRequest: ArrayList<String>? = null
+    val MY_PERMISSIONS_REQUEST_ACCESS_FINE_LOCATION = 101
+    val ALL_PERMISSIONS_RESULT = 102
+    var permissionsRejected = ArrayList<String>()
+    var canGetLocation = true
+    var type = ""
+    private val file_perm = 2
 
 
     @SuppressLint("SetJavaScriptEnabled")
@@ -389,6 +402,7 @@ class MainActivity : Activity() {
     }
 
     companion object {
+        val ALL_PERMISSIONS_RESULT: Int = 102
         internal var TAG = "---MainActivity"
         val INPUT_FILE_REQUEST_CODE = 1
         val EXTRA_FROM_NOTIFICATION = "EXTRA_FROM_NOTIFICATION"
@@ -483,5 +497,103 @@ class MainActivity : Activity() {
             return available
         }
     }
+
+
+    fun checkMultiplePer() {
+        permissions.add(Manifest.permission.WRITE_EXTERNAL_STORAGE)
+        permissions.add(Manifest.permission.READ_EXTERNAL_STORAGE)
+        permissions.add(Manifest.permission.RECORD_AUDIO)
+        permissions.add(Manifest.permission.ACCESS_FINE_LOCATION)
+
+
+        // check permissions
+        checkPerms()
+    }
+
+    fun checkPerms() {
+        permissionsToRequest = findUnAskedPermissions(permissions)
+        // check permissions
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
+            if (permissionsToRequest!!.size > 0) {
+                requestPermissions(permissionsToRequest!!.toTypedArray(),
+                        MainActivity.ALL_PERMISSIONS_RESULT)
+                //Log.d(TAG, "Permission requests");
+                canGetLocation = false
+            }
+        }
+    }
+
+    private fun findUnAskedPermissions(wanted: ArrayList<String>): ArrayList<String> {
+        val result = ArrayList<String>()
+        for (perm in wanted) {
+            if (!hasPermission(perm)) {
+                result.add(perm)
+            }
+        }
+        return result
+    }
+
+    private fun hasPermission(permission: String): Boolean {
+        if (canAskPermission()) {
+            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
+                return checkSelfPermission(permission) == PackageManager.PERMISSION_GRANTED
+            }
+        }
+        return true
+    }
+
+    private fun canAskPermission(): Boolean {
+        return Build.VERSION.SDK_INT > Build.VERSION_CODES.LOLLIPOP_MR1
+    }
+
+    override fun onRequestPermissionsResult(requestCode: Int, permissions: Array<String?>, grantResults: IntArray) {
+        var canUseExternalStorage = false
+        when (requestCode) {
+            MainActivity.ALL_PERMISSIONS_RESULT -> try {
+                //Log.d(TAG, "onRequestPermissionsResult");
+                for (perms in permissionsToRequest!!) {
+                    if (!hasPermission(perms)) {
+                        permissionsRejected.add(perms)
+                    }
+                }
+                if (permissionsRejected.size > 0) {
+                    if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
+                        if (shouldShowRequestPermissionRationale(permissionsRejected[0])) {
+                            showMessageOKCancel("These permissions are mandatory for the application. Please allow access.",
+                                    DialogInterface.OnClickListener { dialog, which ->
+                                        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
+                                            requestPermissions(permissionsRejected.toTypedArray(), MainActivity.ALL_PERMISSIONS_RESULT)
+                                        }
+                                    })
+                            return
+                        }
+                    }
+                }
+            } catch (e: Exception) {
+                e.printStackTrace()
+            } finally {
+            }
+            MY_PERMISSIONS_REQUEST_ACCESS_FINE_LOCATION -> {
+                if (grantResults.size > 0
+                        && grantResults[0] == PackageManager.PERMISSION_GRANTED) {
+                    canUseExternalStorage = true
+                }
+                if (!canUseExternalStorage) {
+                    Toast.makeText(this@MainActivity, resources.getString(R.string.cannot_use_save_permission), Toast.LENGTH_SHORT).show()
+                }
+            }
+        }
+    }
+
+    private fun showMessageOKCancel(message: String, okListener: DialogInterface.OnClickListener) {
+        AlertDialog.Builder(this@MainActivity)
+                .setMessage(message)
+                .setPositiveButton("OK", okListener)
+                .setNegativeButton("cancel", null)
+                .create()
+                .show()
+    }
+
+
 
 }
